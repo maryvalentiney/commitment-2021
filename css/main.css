@@ -27,3 +27,8 @@ figcaption {
     font-weight: 700;
     font-style: normal;
 }
+
+#footnotes {
+    position: fixed;
+    bottom: 0px;
+}
