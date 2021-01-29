@@ -1,3 +1,7 @@
 body{
     background-color: rgb(214, 212, 207);
 }
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
