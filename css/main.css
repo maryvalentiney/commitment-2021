@@ -11,7 +11,7 @@ img {
     display: grid;
     grid-template-columns: repeat(2, 50%);
     grid-template-rows: repeat(6, 16.5%);
-    row-gap: 5%;
+    row-gap: 2%;
 }
 
 h1 {
