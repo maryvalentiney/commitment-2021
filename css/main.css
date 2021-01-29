@@ -29,7 +29,7 @@ figcaption {
 }
 
 #footnotes {
-    position: fixed;
+    position: relative;
     bottom: 0px;
     font-family: input-mono, monospace;
     font-weight: 100;
