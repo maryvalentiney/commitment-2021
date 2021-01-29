@@ -10,3 +10,6 @@ img{
     grid-template-columns: repeat(2, 50%);
     grid-template-rows: repeat(6, 18%);
 }
+h1{
+    text-align: center; 
+}
