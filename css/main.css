@@ -35,9 +35,3 @@ figcaption {
     font-weight: 100;
     font-style: normal;
 }
-
-#container2 {
-    display: grid;
-    grid-template-columns: repeat(1, 100%);
-    grid-template-rows: 95%, 5%;
-}
