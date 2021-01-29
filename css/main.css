@@ -31,4 +31,7 @@ figcaption {
 #footnotes {
     position: fixed;
     bottom: 0px;
+    font-family: agahnsangsoo2012, sans-serif;
+    font-weight: 300;
+    font-style: normal;
 }
