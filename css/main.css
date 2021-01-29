@@ -8,5 +8,5 @@ img{
 #container{
     display: grid; 
     grid-template-columns: repeat(2, 50%);
-    grid-template-rows: repeat(6, 12%);
+    grid-template-rows: repeat(6, 20%);
 }
