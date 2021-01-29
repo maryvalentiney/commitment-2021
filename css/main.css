@@ -10,7 +10,7 @@ img {
 #container {
     display: grid;
     grid-template-columns: repeat(2, 50%);
-    grid-template-rows: repeat(6, 16.5%);
+    grid-template-rows: repeat(6, 15%);
     row-gap: 2%;
 }
 
