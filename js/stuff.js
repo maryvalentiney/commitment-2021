@@ -19,5 +19,8 @@ var acCaptions = [
     "Bea, Rodney, and Rosie at this fire that appeared at my plaza randomly the other day",
     "Taking a break on the beach with Papi while working on my island redesign.",
     'Rosie wearing a shirt I made for jocks (it says "gain" on the back), unintentionally creating a hilarious reaction image',
-    "Rosie, Rod, and Mott doing yoga together... I guess the jock shirt makes sense now..."
+    "Rosie, Rod, and Mott doing yoga together... I guess the jock shirt makes sense now...",
+    "flexing the new kitchen that I designed for myself in the main room (it's really sick)",
+    "Papi wears a minecraft shirt during the aurora borealis, this rocks because I had been playing minecraft for weeks previously",
+
 ];
