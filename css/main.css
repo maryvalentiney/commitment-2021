@@ -32,7 +32,8 @@ figcaption {
     max-height: 80%;
 }
 
-#ac-container {
-    display: flex;
-    align-items: center;
+#ac-container,
+#acfigure,
+#accap {
+    text-align: center;
 }
