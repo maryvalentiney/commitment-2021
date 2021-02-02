@@ -34,4 +34,7 @@ figcaption {
 
 #ac-container {
     text-align: center;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(3, 25%);
 }
