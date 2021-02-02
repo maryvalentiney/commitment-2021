@@ -31,6 +31,7 @@ var acCaptions = [
 
 document.getElementById("acbutton").addEventListener("click", showNextImage);
 
+
 function showNextImage() {
     target++;
     if (target == 10) {
