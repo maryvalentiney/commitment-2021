@@ -1,5 +1,7 @@
 console.log("loaded");
 
+var target;
+
 var acImages = [
     "IMG_5875",
     "IMG_5876",
@@ -16,5 +18,6 @@ var acImages = [
 var acCaptions = [
     "Bea, Rodney, and Rosie at this fire that appeared at my plaza randomly the other day",
     "Taking a break on the beach with Papi while working on my island redesign.",
-    ""
+    'Rosie wearing a shirt I made for jocks (it says "gain" on the back), unintentionally creating a hilarious reaction image',
+    "Rosie, Rod, and Mott doing yoga together... I guess the jock shirt makes sense now..."
 ];
