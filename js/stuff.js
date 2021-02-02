@@ -22,5 +22,9 @@ var acCaptions = [
     "Rosie, Rod, and Mott doing yoga together... I guess the jock shirt makes sense now...",
     "flexing the new kitchen that I designed for myself in the main room (it's really sick)",
     "Papi wears a minecraft shirt during the aurora borealis, this rocks because I had been playing minecraft for weeks previously",
+    "Built a messed up snowboy because I got fed up did not expect him to get this pissed at me. Recently, I have only been making tiny snowboys because they're funnier",
+    "I demolished this build but it was epic while it lasted I will say that",
+    "~~~~~~~~~~museum aesthetic~~~~~~~~~ ALSO I AM TWO FISH FROM FINISHING FISH CRITTERPEDIA!!!!",
+    ""
 
 ];
