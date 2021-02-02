@@ -37,4 +37,5 @@ function showNextImage() {
         target = 0;
     }
     document.getElementById("acsc").src = acImages[target];
+    document.getElementById("accap").innerHTML = acCaptions[target];
 }
