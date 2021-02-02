@@ -18,13 +18,13 @@ var acImages = [
 var acCaptions = [
     "Bea, Rodney, and Rosie at this fire that appeared at my plaza randomly the other day",
     "Taking a break on the beach with Papi while working on my island redesign.",
-    'Rosie wearing a shirt I made for jocks (it says "gain" on the back), unintentionally creating a hilarious reaction image',
-    "Rosie, Rod, and Mott doing yoga together... I guess the jock shirt makes sense now...",
-    "flexing the new kitchen that I designed for myself in the main room (it's really sick)",
-    "Papi wears a minecraft shirt during the aurora borealis, this rocks because I had been playing minecraft for weeks previously",
-    "Built a messed up snowboy because I got fed up did not expect him to get this pissed at me. Recently, I have only been making tiny snowboys because they're funnier",
-    "I demolished this build but it was epic while it lasted I will say that",
-    "~~~~~~~~~~museum aesthetic~~~~~~~~~ ALSO I AM TWO FISH FROM FINISHING FISH CRITTERPEDIA!!!!",
+    'Rosie wearing a shirt <span class="eye">I</span> made for jocks (it says "gain" on the back), unintentionally creating a hilarious reaction image',
+    "Rosie, Rod, and Mott doing yoga together...<span class='eye'>I</span> guess the jock shirt makes sense now...",
+    "flexing the new kitchen that <span class='eye'>I</span> designed for myself in the main room (it's really sick)",
+    "Papi wears a minecraft shirt during the aurora borealis, this rocks because <span class='eye'>I</span> had been playing minecraft for weeks previously",
+    "Built a messed up snowboy because I got fed up did not expect him to get this pissed at me. Recently, <span class='eye'>I</span> have only been making tiny snowboys because they're funnier",
+    "<span class='eye'>I</span> demolished this build but it was epic while it lasted <span class='eye'>I</span> will say that",
+    "~~~~~~~~~~museum aesthetic~~~~~~~~~ ALSO <span class='eye'>I</span> AM TWO F<span class='eye'>I</span>SH FROM F<span class='eye'>I</span>N<span class='eye'>I</span>SH<span class='eye'>I</span>NG FISH CRITTERPEDIA!!!!",
     "super duper spooky halloween costume feat. Jack, who I think is the same dude that plays Zipper, but he just enjoys the Jack job more"
 
 ];
