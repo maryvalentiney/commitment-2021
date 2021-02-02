@@ -1,10 +1,15 @@
-body {
-    /* background-color: rgb(214, 212, 207); */
+figcaption {
+    color: white;
+}
+
+a {
+    color: lightblue;
 }
 
 img {
     max-width: 85%;
     max-height: 85%;
+    border: 5px solid white;
 }
 
 #container {
@@ -49,7 +54,7 @@ figcaption {
     padding: 2%;
 }
 
-.css-selector {
+body {
     background: linear-gradient(358deg, #0ff5ba, #f0f50f, #f5950f, #f5440f, #f50f87, #8e0ff5, #0f51f5, #0fb6f5, #1bf50f);
     background-size: 1800% 1800%;
     -webkit-animation: AnimationName 54s ease infinite;
