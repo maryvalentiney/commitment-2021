@@ -31,9 +31,3 @@ figcaption {
     max-width: 80%;
     max-height: 80%;
 }
-
-#footnotes {
-    font-family: input-mono, monospace;
-    font-weight: 100;
-    font-style: normal;
-}
