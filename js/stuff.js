@@ -25,6 +25,6 @@ var acCaptions = [
     "Built a messed up snowboy because I got fed up did not expect him to get this pissed at me. Recently, I have only been making tiny snowboys because they're funnier",
     "I demolished this build but it was epic while it lasted I will say that",
     "~~~~~~~~~~museum aesthetic~~~~~~~~~ ALSO I AM TWO FISH FROM FINISHING FISH CRITTERPEDIA!!!!",
-    ""
+    "super duper spooky halloween costume feat. Jack, who I think is the same dude that plays Zipper, but he just enjoys the Jack job more"
 
 ];
