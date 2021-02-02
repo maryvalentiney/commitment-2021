@@ -12,6 +12,10 @@ img {
     border: 5px solid white;
 }
 
+.eye {
+    color: blue;
+}
+
 figure {
     margin-bottom: 10%;
 }

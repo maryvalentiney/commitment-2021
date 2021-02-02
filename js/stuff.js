@@ -16,12 +16,12 @@ var acImages = [
 ];
 
 var acCaptions = [
-    "Bea, Rodney, and Rosie at this fire that appeared at my plaza randomly the other day",
-    "Taking a break on the beach with Papi while working on my island redesign.",
-    'Rosie wearing a shirt <span class="eye">I</span> made for jocks (it says "gain" on the back), unintentionally creating a hilarious reaction image',
-    "Rosie, Rod, and Mott doing yoga together...<span class='eye'>I</span> guess the jock shirt makes sense now...",
-    "flexing the new kitchen that <span class='eye'>I</span> designed for myself in the main room (it's really sick)",
-    "Papi wears a minecraft shirt during the aurora borealis, this rocks because <span class='eye'>I</span> had been playing minecraft for weeks previously",
+    "Bea, Rodney, and Ros<span class='eye'>i</span>e at th<span class='eye'>i</span>s f<span class='eye'>i</span>re that appeared at my plaza randomly the other day",
+    "Tak<span class='eye'>i</span>ng a break on the beach w<span class='eye'>i</span>th Pap<span class='eye'>i</span> wh<span class='eye'>i</span>le work<span class='eye'>i</span>ng on my <span class='eye'>i</span>sland redes<span class='eye'>i</span>gn.",
+    'Ros<span class="eye">i</span>e wear<span class="eye">i</span>ng a sh<span classe"eye">i</span>rt <span class="eye">I</span> made for jocks (<span class="eye">i</span>t says "ga<span class="eye">i</span>n" on the back), un<span class="eye">i</span>ntent<span class="eye">i</span>onally creat<span class="eye">i</span>ng a h<span class="eye">i</span>lar<span class="eye">i</span>ous react<span class="eye">i</span>on <span class="eye">i</span>mage',
+    "Ros<span class='eye'>i</span>e, Rod, and Mott do<span class='eye'>i</span>ng yoga together...<span class='eye'>I</span> guess the jock sh<span class='eye'>i</span>rt makes sense now...",
+    "flex<span class='eye'>i</span>ng the new k<span class='eye'>i</span>tchen that <span class='eye'>I</span> des<span class='eye'>i</span>gned for myself <span class='eye'>i</span>n the ma<span class='eye'>i</span>n room (<span class='eye'>i</span>t's really s<span class='eye'>i</span>ck)",
+    "Pap<span class='eye'>i</span> wears a m<span class='eye'>i</span>necraft shirt during the aurora borealis, this rocks because <span class='eye'>I</span> had been playing minecraft for weeks previously",
     "Built a messed up snowboy because I got fed up did not expect him to get this pissed at me. Recently, <span class='eye'>I</span> have only been making tiny snowboys because they're funnier",
     "<span class='eye'>I</span> demolished this build but it was epic while it lasted <span class='eye'>I</span> will say that",
     "~~~~~~~~~~museum aesthetic~~~~~~~~~ ALSO <span class='eye'>I</span> AM TWO F<span class='eye'>I</span>SH FROM F<span class='eye'>I</span>N<span class='eye'>I</span>SH<span class='eye'>I</span>NG F<span class='eye'>I</span>SH CR<span class='eye'>I</span>TTERPED<span class='eye'>I</span>A!!!!",
