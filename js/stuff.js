@@ -29,7 +29,7 @@ var acCaptions = [
 
 ];
 
-document.getElementById("acbutton").addEventListener.onClick(showNextImage);
+document.getElementById("acbutton").addEventListener("onclick", showNextImage);
 
 function showNextImage() {
     console.log(worked);
