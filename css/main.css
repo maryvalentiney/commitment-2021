@@ -31,3 +31,7 @@ figcaption {
     max-width: 80%;
     max-height: 80%;
 }
+
+#ac-container {
+    text-align: center;
+}
