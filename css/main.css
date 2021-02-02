@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(214, 212, 207);
+    /* background-color: rgb(214, 212, 207); */
 }
 
 img {
@@ -47,4 +47,48 @@ figcaption {
     border: none;
     text-decoration: none;
     padding: 2%;
+}
+
+.css-selector {
+    background: linear-gradient(358deg, #0ff5ba, #f0f50f, #f5950f, #f5440f, #f50f87, #8e0ff5, #0f51f5, #0fb6f5, #1bf50f);
+    background-size: 1800% 1800%;
+    -webkit-animation: AnimationName 54s ease infinite;
+    -moz-animation: AnimationName 54s ease infinite;
+    animation: AnimationName 54s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0% {
+        background-position: 51% 0%
+    }
+    50% {
+        background-position: 50% 100%
+    }
+    100% {
+        background-position: 51% 0%
+    }
+}
+
+@-moz-keyframes AnimationName {
+    0% {
+        background-position: 51% 0%
+    }
+    50% {
+        background-position: 50% 100%
+    }
+    100% {
+        background-position: 51% 0%
+    }
+}
+
+@keyframes AnimationName {
+    0% {
+        background-position: 51% 0%
+    }
+    50% {
+        background-position: 50% 100%
+    }
+    100% {
+        background-position: 51% 0%
+    }
 }
