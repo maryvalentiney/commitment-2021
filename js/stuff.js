@@ -28,3 +28,9 @@ var acCaptions = [
     "super duper spooky halloween costume feat. Jack, who I think is the same dude that plays Zipper, but he just enjoys the Jack job more"
 
 ];
+
+document.getElementById("acbutton").addEventListener.onClick(showNextImage);
+
+function showNextImage() {
+    console.log(worked);
+}
