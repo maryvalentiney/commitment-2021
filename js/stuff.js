@@ -1,6 +1,6 @@
 console.log("loaded");
 
-var target;
+var target = 0;
 
 var acImages = [
     "IMG_5875",
@@ -32,5 +32,9 @@ var acCaptions = [
 document.getElementById("acbutton").addEventListener("click", showNextImage);
 
 function showNextImage() {
-    console.log("worked");
+    target++;
+    if (target == 10) {
+        target = 0;
+    }
+    document.getElementById("acsc").src = acImages[target];
 }
