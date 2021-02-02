@@ -38,3 +38,10 @@ figcaption {
     text-align: center;
     margin: 4%;
 }
+
+#acbutton {
+    font-size: 1.5em;
+    font-family: sandoll-coffeeanddonut, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
