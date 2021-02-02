@@ -3,16 +3,16 @@ console.log("loaded");
 var target = 0;
 
 var acImages = [
-    "IMG_5875",
-    "IMG_5876",
-    "IMG_5877",
-    "IMG_5878",
-    "IMG_5879",
-    "IMG_5880",
-    "IMG_5881",
-    "IMG_5882",
-    "IMG_5883",
-    "IMG_5884"
+    "img/IMG_5875.JPG",
+    "img/IMG_5876.JPG",
+    "img/IMG_5877.JPG",
+    "img/IMG_5878.JPG",
+    "img/IMG_5879.JPG",
+    "img/IMG_5880.JPG",
+    "img/IMG_5881.JPG",
+    "img/IMG_5882.JPG",
+    "img/IMG_5883.JPG",
+    "img/IMG_5884.JPG"
 ];
 
 var acCaptions = [
